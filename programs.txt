@@ -1,0 +1,16 @@
+bind
+bitwarden
+discord
+docker
+docker-compose
+google-chrome
+htop
+jetbrains-toolbox
+jre11-openjdk
+neofetch
+nmap
+playonlinux
+postman-bin
+rpi-imager
+telegram-desktop
+vlc

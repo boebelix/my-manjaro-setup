@@ -1,0 +1,16 @@
+[/]
+arc-menu-placement='DTP'
+available-placement=[false, true, false]
+custom-menu-button-icon-size=32.0
+distro-icon=3
+enable-standlone-runner-menu=true
+hot-corners='Default'
+menu-button-appearance='Icon'
+menu-button-icon='Distro_Icon'
+menu-layout='Default'
+override-hot-corners=false
+pinned-app-list=['Firefox', '', 'firefox.desktop', 'Terminal', '', 'org.gnome.Terminal.desktop', 'ArcMenu Settings', 'ArcMenu_ArcMenuIcon', 'gnome-extensions prefs arcmenu@arcmenu.com']
+prefs-visible-page=0
+recently-installed-apps=['toolbox.desktop', 'cups.desktop', 'com.github.maoschanz.DynamicWallpaperEditor.desktop', 'kvantummanager.desktop', 'qt6ct.desktop', 'jetbrains-toolbox.desktop', 'google-chrome.desktop', 'electron14.desktop', 'bitwarden.desktop', 'jetbrains-idea.desktop', 'jetbrains-studio.desktop', 'chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default.desktop', 'chrome-jndclpdbaamdhonoechobihbbiimdgai-Default.desktop', 'virtualbox.desktop', 'discord.desktop', 'vlc.desktop', 'telegramdesktop.desktop', 'electron.desktop', 'io.dbeaver.DBeaver.desktop', 'org.onlyoffice.desktopeditors.desktop', 'xterm.desktop', 'PlayOnLinux.desktop', 'uxterm.desktop', 'wine-Programs-7-Zip-7-Zip Help.desktop', 'wine-Programs-7-Zip-7-Zip File Manager.desktop', 'electron16.desktop', 'firefox.desktop']
+runner-menu-hotkey='Custom'
+toggle-runner-menu=['space']
