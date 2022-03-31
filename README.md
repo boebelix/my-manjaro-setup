@@ -6,6 +6,7 @@ additional it set aliases, install Flutter and Node Version Mananger
 
 ## Run the script
 ```
+chmod +x ./install-script.sh
 sudo ./install-script.sh
 ```
 
@@ -18,8 +19,8 @@ sudo sed -Ei '/EnableAUR/s/^#//' /etc/pamac.conf
 ```
 
 
-### Save self installed packages
-## Get self installed packages
+## Save self installed packages
+### Get self installed packages
 Source: https://www.reddit.com/r/ManjaroLinux/comments/fzog8g/get_a_list_of_packages_you_installed_yourself/
 pacman -Qqe get all installed packages. In ```/desktopfs-pkgs.txt``` there are packages which Manjaro would install by upgrade.
 grep -v filters all packages which are not in both list. So you get only the self installed packages.
@@ -29,7 +30,7 @@ pacman -Qqe | grep -v "$(awk '{print $1}' /desktopfs-pkgs.txt)" > ./programs.txt
 ```
 
 
-## Install Packages from list
+### Install Packages from list
 ```
 pamac install $(cat ./programs.txt) 
 ```
