@@ -1,6 +1,7 @@
 bind
 bitwarden
 discord
+docker
 docker-compose
 google-chrome
 htop
