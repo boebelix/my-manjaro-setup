@@ -1,7 +1,6 @@
 bind
 bitwarden
 discord
-docker
 docker-compose
 google-chrome
 htop
@@ -14,3 +13,7 @@ postman-bin
 rpi-imager
 telegram-desktop
 vlc
+networkmanager-openvpn
+visual-studio-code-bin
+virtualbox
+dbeaver
